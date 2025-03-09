@@ -20,3 +20,9 @@ Each table includes the following columns.
 - BatteryLevel: Device battery level in Volts, Double
 - PercentBattery: Percent of device battery: Double
 - CellSignal, Cellular signal strength in dB: Double
+
+# Mobility data:
+- search corresponding mobility data from this source:
+    - [Taxi Trips 2013-2023](https://data.cityofchicago.org/Transportation/Taxi-Trips-2013-2023-/wrvz-psew/about_data)
+    - [Divvy Bicycle Stations Map](https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-Map/bk89-9dk7)
+    - [Divvy Trips](https://data.cityofchicago.org/Transportation/Divvy-Trips/fg6s-gzvg/about_data)
