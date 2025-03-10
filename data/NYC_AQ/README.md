@@ -15,3 +15,8 @@
 • Ambient temperature reading in degrees Celsius.
 - `humidity`
 • Ambient relative humidity reading in percentage
+
+Table.  datasets
+|City|Sensing target pollutants|Sensing fleet|Duration|
+|----|-------------------------|-------------|--------|
+|New York City, US|Particulate matter, particle size distribution, NO2|Five municipal vehicles|Jan. 2020 - Feb. 2020; Sep. 2021 - Dec. 2021|
