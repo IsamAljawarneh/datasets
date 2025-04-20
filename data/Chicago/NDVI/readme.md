@@ -1,10 +1,9 @@
-Certainly! Here's the description of the Chicago NDVI data in **Markdown format** for your `readme.md` file:
 
 ---
 
 # Chicago NDVI Data Description
 
-This dataset contains Normalized Difference Vegetation Index (NDVI) values extracted from satellite imagery for the city of Chicago, USA, covering several months between 2021 and 2023. The data was generated using a methodology similar to the one described in the [Data Collection and Preparation Guide](Data%20Collection%20and%20Preparation%20Guide.pdf) and is structured to facilitate spatial analysis of vegetation health over time.
+This dataset contains Normalized Difference Vegetation Index (NDVI) values extracted from satellite imagery for the city of Chicago, USA, covering several months between 2021 and 2023. The data is structured to facilitate spatial analysis of vegetation health over time.
 
 ## Data Structure
 
@@ -58,8 +57,6 @@ This dataset can be used to:
 - Each file corresponds to a single month of data, allowing for monthly comparisons.
 - The data is suitable for integration with other geospatial datasets using techniques like geohashing, enabling efficient spatial joins and large-scale analyses.
 
-For more details on the methodology, refer to the [Data Collection and Preparation Guide](Data%20Collection%20and%20Preparation%20Guide.pdf).
+
 
 ---
-
-Let me know if you'd like any adjustments or additional sections added to this description!
